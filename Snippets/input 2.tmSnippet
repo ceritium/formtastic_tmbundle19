@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;%= f.input :$1${2:, :label =&gt; '$3'}$0 %&gt;</string>
+	<string>&lt;%= f.input :$1${2:, :label =&gt; '$3'} %&gt;$0</string>
 	<key>name</key>
 	<string>= f.input (ERB)</string>
 	<key>scope</key>

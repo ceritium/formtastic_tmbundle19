@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>f.inputs${1: :name =&gt; '$2'} do
-	$0</string>
+	<string>f.inputs${1:${2: :name =&gt; '$3'} do
+	$0}</string>
 	<key>name</key>
 	<string>f.inputs</string>
 	<key>scope</key>
