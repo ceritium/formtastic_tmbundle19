@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>- f.inputs${1: :name =&gt; '$2'} do
+	<string>= f.inputs${1: name: '$2'} do
 	$0</string>
 	<key>name</key>
 	<string>f.inputs (HAML)</string>
