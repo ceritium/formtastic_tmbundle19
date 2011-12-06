@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:button_html =&gt; {$1}$0</string>
+	<string>button_html: {$1}$0</string>
 	<key>name</key>
 	<string>:button_html =&gt;</string>
 	<key>scope</key>

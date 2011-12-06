@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:label =&gt; '$1'$0</string>
+	<string>label: '$1'$0</string>
 	<key>name</key>
 	<string>:label =&gt;</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;%= f.input :$1${2:, :label =&gt; '$3'}, :required =&gt; ${4:true}$0 %&gt;</string>
+	<string>&lt;%= f.input :$1${2:, label: '$3'}, required: ${4:true}$0 %&gt;</string>
 	<key>name</key>
 	<string>= f.input :required =&gt; (ERB)</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;% f.inputs${1: :name =&gt; '$2'} do %&gt;
+	<string>&lt;% f.inputs${1: name: '$2'} do %&gt;
 	$3
 &lt;% end %&gt;$0</string>
 	<key>name</key>

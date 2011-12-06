@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;%= render '${1:form}', :${2:f} =&gt; ${3:f} %&gt;$0</string>
+	<string>&lt;%= render '${1:form}', ${2:f}: ${3:f} %&gt;$0</string>
 	<key>name</key>
 	<string>= f.render partial form (ERB)</string>
 	<key>scope</key>
