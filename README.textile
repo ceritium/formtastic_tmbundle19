@@ -11,10 +11,10 @@ h2. Install this TextMate-bundle...
 <pre>
 mkdir -p ~/Library/Application\ Support/TextMate/Bundles
 cd ~/Library/Application\ Support/TextMate/Bundles
-git clone git://github.com/grimen/formtastic_tmbundle.git 'Formtastic.tmbundle'
+git clone git://github.com/ceritium/formtastic_tmbundle19.git 'Formtastic.tmbundle'
 osascript -e 'tell app "TextMate" to reload bundles'
 </pre>
 
 h2. License
 
-Copyright© 2009 Jonas Grimfelt, released under MIT-license.
+Copyright© 2013 José Galisteo, released under MIT-license.
